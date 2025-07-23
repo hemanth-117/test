@@ -22,6 +22,7 @@ int main(){
             cout << "NO" << endl;
         }
         cout << "hi" << endl;
+        cout << "hi main" << endl;
 
        
 
